@@ -26,9 +26,11 @@ for point and click support instead of running commands by hand from
 the terminal.
 
 ** Proposal Detailed Description/Timeline:
-Since, I was previously aquainted with Qt so I would be learning Gtk and
-would be solving minor issues parallely. And till Feb 01 2017 I may be able
-to provide a GUI support.
++ *Jan 27 - Jan 28:* Dedicated to removing issue [[https://github.com/NIT-dgp/manga/issues/5][#5]] and studying Gtk
++ *Jan 28 - Jan 29:* Will be designing the UI
++ *Jan 29 - Jan 30:* Setting up signal handlers to UI elements
++ *Jan 30 - Jan 31:* Writing callback functions and stabilizing the code
++ *Jan 31 - Feb 01:* Writing a parser for =newsteller= if possible([[https://github.com/NIT-dgp/manga/issues/26][#26]])
 
 * Experience
 + C/C++
@@ -36,6 +38,7 @@ to provide a GUI support.
 + Python
 + PHP
 + Emacs Lisp
++ Qt
 
 * Extra Information
 
