@@ -1,0 +1,51 @@
+#+TITLE: Proposal for "The GSoC Heat"
+#+OPTIONS: toc:nil
+
+* Student Info
+*Name:* Abhishek Prasad\\
+*Github Username:* [[https://github.com/Compro-Prasad][Compro-Prasad]]\\
+*Email:* comproprasad@gmail.com\\
+*Telephone:* +91 7602867497\\
+
+* Code Sample
+
+https://github.com/NIT-dgp/manga/pull/48\\
+https://github.com/NIT-dgp/manga/pull/51
+
+* Project Info
+
+** Project Title:
+Adding GUI to the manga downloader
+
+** Project Abstract:
+A GUI support written using Gtk will be added to the manga downloader
+for point and click support instead of running commands by hand from
+the terminal.
+
+** Proposal Detailed Description/Timeline:
+Since, I was previously aquainted with Qt so I would be learning Gtk and
+would be solving minor issues parallely. And till Feb 01 2017 I may be able
+to provide a GUI support.
+
+* Experience
++ C/C++
++ Bash
++ Python
++ PHP
++ Emacs Lisp
+
+* Extra Information
+
+** University info
+*Name:* NIT Durgapur\\
+*Major:* Information Technology\\
+*Current Year:* Second\\
+*Expected Graduation Year:* 2019\\
+*Degree:* B. Tech\\
+
+** Other Contact Info
+*Gitter:* @Compro-Prasad
+
+* Future involvement
+I would be fixing issues and stabilizing the manga downloader in the future
+till it gets stable.
