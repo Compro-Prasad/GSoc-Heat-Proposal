@@ -2,10 +2,10 @@
 #+OPTIONS: toc:nil
 
 * Student Info
-*Name:* Abhishek Prasad\\
-*Github Username:* [[https://github.com/Compro-Prasad][Compro-Prasad]]\\
-*Email:* comproprasad@gmail.com\\
-*Telephone:* +91 7602867497\\
+*Name:* Abhishek Prasad \\
+*Github Username:* [[https://github.com/Compro-Prasad][Compro-Prasad]] \\
+*Email:* comproprasad@gmail.com \\
+*Telephone:* +91 7602867497 \\
 
 * Code Sample
 
